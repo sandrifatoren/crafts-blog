@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my crafting projects
 ---
 
+Let's see how this goes.
