@@ -5,7 +5,3 @@ image: /assets/images/plant_friends_complete.jpg
 description: "My Christmas gift from my friend"
 url: /blackwork/plant-friends
 ---
-
-# Plant friends
-
-Is there any content I need to put here?
