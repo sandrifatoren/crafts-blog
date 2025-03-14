@@ -11,6 +11,7 @@
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 [And here is my crafting blog (still very much under construction)](https://sandrifatoren.github.io/crafts-blog/)
+![pic](/assets/images/blackwork/plant_friends/plant_friends_complete.jpeg)
 
 
 </header>
