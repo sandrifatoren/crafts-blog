@@ -10,6 +10,8 @@
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
+[And here is my crafting blog (still very much under construction)](https://sandrifatoren.github.io/crafts-blog/)
+
 
 </header>
 
